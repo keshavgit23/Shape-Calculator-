@@ -23,6 +23,6 @@ It demonstrates the use of **interfaces** in Java.
 ● Cylinder
 
 
-## Licence 
+## License 
 
 This project is free to use.
